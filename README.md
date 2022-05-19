@@ -14,6 +14,6 @@ Next I have tested my Bot in Web Chat
 
 The Bot was successfully running
 
-My working project link of the bot is https://webchat.botframework.com/embed/history-b702-bot/gemini?b=history-b702-bot&s=xqYR9kPTmg8.Be2r2FBIf9ZaK9xJhP71jiZWWNoB7rF-Ypdu5nYerXQ&username=You
+My working project link of the bot is https://webchat.botframework.com/embed/collegeprojectbot-bot?s=XNDljpsRLmI.Ff3K1SDVN41EB0aaHZmDXHucSb0RcqcMaW86S7GNg-A
 
 My Demo Url is https://www.youtube.com/watch?v=U3omQR5FQmc
